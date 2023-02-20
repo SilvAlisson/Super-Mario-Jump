@@ -1,2 +1,5 @@
 # Super-Mario-Jump
-criação de um jogo simples usando JavaScript e HTML.
+
+
+## Links do tutorial usado como referência:
+[Manual do Dev](https://www.youtube.com/watch?v=r9buAwVBDhA&ab_channel=ManualdoDev)
